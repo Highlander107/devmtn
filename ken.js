@@ -1,1 +1,1 @@
-Ken
+var myName = 'Ken'
