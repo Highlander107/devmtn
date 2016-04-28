@@ -1,1 +1,1 @@
-var myName = 'Ken'
+var myName = 'Ken';
